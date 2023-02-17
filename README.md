@@ -8,8 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-{% include youtube.html id="YY1NOlVa7jQ" %}
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=YY1NOlVa7jQ)
 
 <h2>Environments and Technologies Used</h2>
 
