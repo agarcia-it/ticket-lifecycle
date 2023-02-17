@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. The link below will take you a high level overview created by me. Please excuse the low video resolution - the virtual machine affected the video quality, but the overall concepts can still be easily understood! Thank you for watching.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,6 +12,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Environments and Technologies Used</h2>
 
+- osTicket
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
